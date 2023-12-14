@@ -1,0 +1,23 @@
+spring:
+  config:
+    import: "optional:configserver:"
+  application:
+    name: gateway-service
+  cloud:
+    config:
+      discovery:
+        enabled: true
+        serviceId: config-service-elxrojo
+    gateway:
+      routes:
+        - id : checkout-service
+          uri: http://localhost:8031
+          predicates:
+            - Path=/checkout
+
+server:
+  port: 8084
+
+eureka:
+  instance:
+    hostname: localhost

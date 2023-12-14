@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="deab928a-a785-4852-b2e4-52f740f51f2a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/Integradora-soloOdontologos/Clinica/src/main/java/com/dh/Clinica/exceptions/BadRequestException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/integradora modificaciones FINAL FINAL FINAL FINAL/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/integradora modificaciones FINAL FINAL FINAL FINAL/untitled/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/._clase5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/._checkout-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/._config-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/._eureka-server" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/._products-service" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._.mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/.mvn/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/.mvn/wrapper/._maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/java/com/digitalhouse/checkout/._CheckoutServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/test/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/test/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/test/java/com/digitalhouse/._checkoutservice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/checkout-service/src/test/java/com/digitalhouse/checkoutservice/._CheckoutServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._.mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/.mvn/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/.mvn/wrapper/._maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/java/com/digitalhouse/._configserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/main/java/com/digitalhouse/configserver/._ConfigServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/test/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/test/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/test/java/com/digitalhouse/._configserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/config-server/src/test/java/com/digitalhouse/configserver/._ConfigServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._.mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/.mvn/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/.mvn/wrapper/._maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/java/com/digitalhouse/._eurekaserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/java/com/digitalhouse/eurekaserver/._EurekaServerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/test/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/test/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/test/java/com/digitalhouse/._eurekaserver" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/eureka-server/src/test/java/com/digitalhouse/eurekaserver/._EurekaServerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._.mvn" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/._src" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/.mvn/._wrapper" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/.mvn/wrapper/._maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/.mvn/wrapper/._maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/._main" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/._test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/._resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/java/com/digitalhouse/products/._ProductsServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/resources/._application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/resources/._static" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/main/resources/._templates" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/._java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/._com" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/._digitalhouse" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/digitalhouse/._productsservice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/digitalhouse/productsservice/._ProductsServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/clase5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2ZOGP8g9xkxAPQ9DITccpBm3Wt7" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.GatewayApplication">
+    <configuration name="CheckoutServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.checkoutservice.CheckoutServiceApplication" />
+      <module name="checkout-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.checkoutservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigSeverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.configsever.ConfigSeverApplication" />
+      <module name="config-sever" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configsever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.eurekaserver.EurekaServerApplication" />
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gateway.GatewayApplication" />
+      <module name="gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.productservice.ProductServiceApplication" />
+      <module name="product-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.productservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GatewayApplication" />
+        <item itemvalue="Application.CheckoutServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.ConfigSeverApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="deab928a-a785-4852-b2e4-52f740f51f2a" name="Changes" comment="" />
+      <created>1702285685993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702285685993</updated>
+    </task>
+    <servers />
+  </component>
+</project>
