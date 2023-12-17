@@ -1,6 +1,6 @@
 package com.example.checkoutservice.repository;
 
-import com.example.checkoutservice.configuration.LoadBalancerConfiguration;
+//import com.example.checkoutservice.configuration.LoadBalancerConfiguration;
 import com.example.checkoutservice.model.DTO.Product;
 import org.springframework.cloud.loadbalancer.annotation.LoadBalancerClient;
 import org.springframework.cloud.openfeign.FeignClient;
