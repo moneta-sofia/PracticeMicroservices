@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="deab928a-a785-4852-b2e4-52f740f51f2a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/example/gateway/filter/CustomFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/configuration/SecurityConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/Integradora-soloOdontologos/Clinica/src/main/java/com/dh/Clinica/exceptions/BadRequestException.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/integradora modificaciones FINAL FINAL FINAL FINAL/untitled/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../2do año/1er bimestre/Backend/integradora modificaciones FINAL FINAL FINAL FINAL/untitled/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/._clase5" beforeDir="false" />
@@ -115,15 +114,14 @@
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/digitalhouse/._productsservice" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/digitalhouse/productsservice/._ProductsServiceApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/clase5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/CheckoutServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/CheckoutServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/configuration/LoadBalancerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/configuration/LoadBalancerConfiguration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/controller/CheckoutRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/controller/CheckoutRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/repository/FeignProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/repository/FeignProductsRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-sever/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config-sever/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/model/Checkout.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/model/Checkout.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,16 +152,17 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "project.structure.last.edited": "Problems",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Personal/Estudios/DH/OnDemand/Microservicios/practica/codebase/API Gateway - Seguridad/clase7-seguridad&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.GatewayApplication">
     <configuration name="CheckoutServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.checkoutservice.CheckoutServiceApplication" />
@@ -232,8 +231,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GatewayApplication" />
         <item itemvalue="Application.CheckoutServiceApplication" />
+        <item itemvalue="Application.GatewayApplication" />
         <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.ConfigSeverApplication" />
         <item itemvalue="Application.EurekaServerApplication" />
@@ -250,5 +249,18 @@
       <updated>1702285685993</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework.security:spring-security-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="executable:docker" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.validation:jakarta.validation-api" />
+    <option featureType="dependencySupport" implementationName="java:io.projectreactor:reactor-core" />
+    <option featureType="dependencySupport" implementationName="executable:kubectl" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.cloud:spring-cloud-context" />
+    <option featureType="dependencySupport" implementationName="java:org.hibernate.validator:hibernate-validator" />
+    <option featureType="dependencySupport" implementationName="java:jakarta.ws.rs:jakarta.ws.rs-api" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
   </component>
 </project>
