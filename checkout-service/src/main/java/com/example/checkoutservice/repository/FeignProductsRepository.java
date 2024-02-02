@@ -12,6 +12,6 @@ import org.springframework.web.bind.annotation.RequestParam;
 //@LoadBalancerClient(value = "product-service", configuration = LoadBalancerConfiguration.class)
 public interface FeignProductsRepository {
     @RequestMapping(method= RequestMethod.GET, value="/products")
-    Product getProductsById(@RequestParam  String id);
+    Product getProductsById(@RequestParam  String id, @RequestParam Boolean throwError);
 
 }

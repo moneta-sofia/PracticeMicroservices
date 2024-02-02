@@ -114,8 +114,14 @@
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/__MACOSX/clase5/products-service/src/test/java/com/digitalhouse/productsservice/._ProductsServiceApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Invocaciones REST declarativas y balanceo de carga/clase5" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/configuration/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/configuration/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/controller/CheckoutRestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/controller/CheckoutRestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/repository/FeignProductsRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/repository/FeignProductsRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/service/implementation/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/java/com/example/checkoutservice/service/implementation/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/java/com/example/productservice/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/product-service/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -225,9 +231,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GatewayApplication" />
-        <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.CheckoutServiceApplication" />
+        <item itemvalue="Application.ProductServiceApplication" />
+        <item itemvalue="Application.GatewayApplication" />
         <item itemvalue="Application.ConfigSeverApplication" />
         <item itemvalue="Application.EurekaServerApplication" />
       </list>
