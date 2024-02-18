@@ -4,11 +4,21 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/payments/pom.xml" />
         <option value="$PROJECT_DIR$/config-sever/pom.xml" />
         <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/notifications/pom.xml" />
         <option value="$PROJECT_DIR$/product-service/pom.xml" />
         <option value="$PROJECT_DIR$/checkout-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../Personal/Estudios/DH/OnDemand/Microservicios/practica/M3-EUREKA/notificactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../Personal/Estudios/DH/OnDemand/Microservicios/practica/M3-EUREKA/payments/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../../../../../Personal/Estudios/DH/OnDemand/Microservicios/practica/M3-EUREKA/notificactions/pom.xml" />
+        <option value="$PROJECT_DIR$/../../../../../Personal/Estudios/DH/OnDemand/Microservicios/practica/M3-EUREKA/payments/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="openjdk-20" project-jdk-type="JavaSDK">

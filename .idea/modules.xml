@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/M3-EUREKA.iml" filepath="$PROJECT_DIR$/.idea/M3-EUREKA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PracticeMicroservices.iml" filepath="$PROJECT_DIR$/.idea/PracticeMicroservices.iml" />
     </modules>
   </component>
 </project>
