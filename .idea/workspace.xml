@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="939fb586-2983-48fc-b792-9be9adf363ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PracticeMicroservices.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notifications/src/main/java/com/example/notifications/service/NotificationConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/src/main/java/com/example/payments/RestController/PaymentRestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/src/main/java/com/example/payments/client/PaymentClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/src/main/java/com/example/payments/model/Payment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/src/main/java/com/example/payments/service/PaymentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/payments/src/main/java/com/example/payments/service/PublishNotification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/M3-EUREKA.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/checkout-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payments/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/payments/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +47,33 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Personal/Estudios/DH/OnDemand/Microservicios/practica/M3-EUREKA&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.EurekaServerApplication">
+  <component name="RunManager" selected="Application.CheckoutServiceApplication">
+    <configuration name="CheckoutServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.checkoutservice.CheckoutServiceApplication" />
+      <module name="checkout-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.checkoutservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigSeverApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.configsever.ConfigSeverApplication" />
+      <module name="config-sever" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.configsever.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.eurekaserver.EurekaServerApplication" />
       <module name="eureka-server" />
@@ -85,19 +100,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NotificationsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.notifications.NotificationsApplication" />
-      <module name="notifications" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.notifications.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="PaymentsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.payments.PaymentsApplication" />
       <module name="payments" />
@@ -111,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.productservice.ProductServiceApplication" />
-      <module name="product-service" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.productservice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NotificationsApplication" />
+        <item itemvalue="Application.CheckoutServiceApplication" />
         <item itemvalue="Application.PaymentsApplication" />
-        <item itemvalue="Application.EurekaServerApplication" />
-        <item itemvalue="Application.ProductServiceApplication" />
         <item itemvalue="Application.GatewayApplication" />
+        <item itemvalue="Application.ConfigSeverApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
       </list>
     </recent_temporary>
   </component>
