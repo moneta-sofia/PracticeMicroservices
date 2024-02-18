@@ -9,14 +9,14 @@
         <module name="checkout-service" />
         <module name="payments" />
         <module name="product-service" />
-        <module name="config-sever" />
         <module name="eureka-server" />
         <module name="gateway" />
-        <module name="notifications" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="config-sever" target="17" />
       <module name="notificactions" target="17" />
+      <module name="notifications" target="17" />
       <module name="payments (1)" target="17" />
       <module name="payments (2)" target="17" />
     </bytecodeTargetLevel>
